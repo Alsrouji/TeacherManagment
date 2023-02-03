@@ -1,0 +1,54 @@
+
+
+html
+
+{
+
+    background-color: dimgray;
+    color: darkgrey;
+
+}
+.Teacher Managment {
+    width:80%;
+    margin: auto;
+}
+head{
+}
+
+head{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+input{
+    width:100% ;
+    height: 30px;
+    outline-color: lightgray;
+    background-color: gray;
+    color: #fff;
+    cursor: pointer;
+
+}
+.Brith input{
+    width: 20%;
+}
+button{
+    width: 30%;
+    height: 30%;
+    border: gray;
+}
+table{
+    width: 80%;
+    text-align: center;
+    margin: 20px 0;
+}
+table th {
+    text-transform: capitalize;
+}
+th,td{
+    padding: 8px;
+}
+table{
+    border: gray;
+    background-color: gray;
+}
